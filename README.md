@@ -1,4 +1,9 @@
 # Jenny-s-Optimized
+<p align="center">
+  <img src="icon.png" width="200" height="200">
+</p>
+
+Este es mi modpack sin restricciones que incluye el mod personalizado y configuraciones especiales.
 This modpack has been specifically designed to enjoy the Jenny's Mod experience without the lag, stuttering, or low FPS issues that often plague Minecraft 1.12.2 versions. We have implemented the best optimization so that animations and rendering are smooth, even on modest hardware.
 <img width="1919" height="1055" alt="image" src="https://github.com/user-attachments/assets/c9154fd7-526e-4e5f-a8ca-a5983ecfad79" />
 
